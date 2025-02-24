@@ -1,0 +1,6 @@
+utterance,intent
+help me see the cancellation fees,check_policy
+can u ask an agent about the cancellation penalties?,check_policy
+"I want to see the cancellation fee, what can I do?",check_policy
+information about the cancellation penalties,check_policy
+"could you ask an agent where to see the fucking cancellation penalties, please?",check_policy
