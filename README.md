@@ -1,3 +1,5 @@
+# User Intent Classifier for E-commerce
+
 This repository contains a pipeline for classifying user intents in an e-commerce context. The pipeline includes data collection, data augmentation, data cleaning, and model training using a Naive Bayes classifier. The goal is to accurately predict user intents based on their utterances.
 
 ## Overview
